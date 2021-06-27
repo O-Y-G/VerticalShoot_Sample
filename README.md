@@ -1,4 +1,4 @@
 # VerticalShoot_Sample
  VerticalShoot_Sample 4.26.2
 
-![ScreenShot00002](https://user-images.githubusercontent.com/62424367/123530933-e7aece00-d73a-11eb-90b2-88a6918f851f.png)
+![ScreenShot00004](https://user-images.githubusercontent.com/62424367/123530998-c5698000-d73b-11eb-95ed-c2ed3ba89825.png)
